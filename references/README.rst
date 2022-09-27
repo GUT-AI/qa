@@ -13,7 +13,6 @@ References
 
 |
 
-
 Corpus-based QA (supervised)
 ----------------------------
 
@@ -75,6 +74,16 @@ References
 - `End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features <https://arxiv.org/pdf/1806.08409.pdf>`_
 - `Audio Visual Scene-Aware Dialog <https://arxiv.org/pdf/1901.09107.pdf>`_
 
+
+Corpus-based QA (RL)
+--------------------
+
+See `Corpus-based QA (RL) <https://github.com/GUT-AI/grounded-qa/blob/master/references/README.rst#corpus-based-qa-rl>`_
+
+Image-based QA (RL)
+-------------------
+
+See `Image-based QA (RL) <https://github.com/GUT-AI/grounded-qa/blob/master/references/README.rst#image-based-qa-rl>`_
 
 QA as Inverse Question Generation
 ---------------------------------
