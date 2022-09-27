@@ -88,7 +88,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
 
 ::
 
-    @article{kourouklides2022gqa,
+    @article{kourouklides2022qa,
       author = {Ioannis Kourouklides},
       journal = {OSF Preprints},
       title = {QA},
