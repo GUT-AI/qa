@@ -74,3 +74,10 @@ References
 
 - `End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features <https://arxiv.org/pdf/1806.08409.pdf>`_
 - `Audio Visual Scene-Aware Dialog <https://arxiv.org/pdf/1901.09107.pdf>`_
+
+
+QA as Inverse Question Generation
+---------------------------------
+
+References
+^^^^^^^^^^
