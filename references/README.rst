@@ -90,3 +90,10 @@ QA as Inverse Question Generation
 
 References
 ^^^^^^^^^^
+
+**2017**
+
+- `Question Generation for Question Answering <https://aclanthology.org/D17-1090.pdf>`_
+- `Question Answering and Question Generation as Dual Tasks <https://arxiv.org/pdf/1706.02027.pdf>`_
+
+
