@@ -96,4 +96,9 @@ References
 - `Question Generation for Question Answering <https://aclanthology.org/D17-1090.pdf>`_
 - `Question Answering and Question Generation as Dual Tasks <https://arxiv.org/pdf/1706.02027.pdf>`_
 
+**2018**
 
+- `Learning to Collaborate for Question Answering and Asking <https://aclanthology.org/N18-1141.pdf>`_
+- `Visual Question Generation as Dual Task of Visual Question Answering <https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf>`_
+- `Self-Training for Jointly Learning to Ask and Answer Questions <https://aclanthology.org/N18-1058.pdf>`_
+- `Generative Question Answering: Learning to Answer the Whole Question <https://openreview.net/pdf?id=Bkx0RjA9tX>`_
