@@ -74,6 +74,10 @@ References
 - `End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features <https://arxiv.org/pdf/1806.08409.pdf>`_
 - `Audio Visual Scene-Aware Dialog <https://arxiv.org/pdf/1901.09107.pdf>`_
 
+**2022**
+
+- `On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering <https://arxiv.org/pdf/2201.03965.pdf>`_
+
 
 Corpus-based QA (RL)
 --------------------
