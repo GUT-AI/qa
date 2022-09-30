@@ -36,6 +36,15 @@ Criteria
 References
 ^^^^^^^^^^
 
+**2011**
+
+- `A survey on question answering technology from an information retrieval perspective <https://lirias.kuleuven.be/bitstream/123456789/313539/1/KolomiyetsMoensIS2011.pdf>`_
+
+**2012**
+
+- `The Question Answering Systems: A Survey <https://www.researchgate.net/profile/Ali-Allam-4/publication/311425566_The_Question_Answering_Systems_A_Survey/links/5845873808ae8e63e62862b1/The-Question-Answering-Systems-A-Survey.pdf>`_
+
+
 Image-based QA (supervised)
 ---------------------------
 
