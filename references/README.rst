@@ -44,6 +44,21 @@ References
 
 - `The Question Answering Systems: A Survey <https://www.researchgate.net/profile/Ali-Allam-4/publication/311425566_The_Question_Answering_Systems_A_Survey/links/5845873808ae8e63e62862b1/The-Question-Answering-Systems-A-Survey.pdf>`_
 
+**2015**
+
+- `Neural Generative Question Answering <https://arxiv.org/pdf/1512.01337.pdf>`_
+
+**2016**
+
+- `A survey on question answering systems with classification <https://www.sciencedirect.com/science/article/pii/S1319157815000890>`_
+
+**2017**
+
+- `A Survey on Dialogue Systems: Recent Advances and New Frontiers <https://www.kdd.org/exploration_files/19-2-Article3.pdf>`_
+
+**2018**
+
+- `Neural Approaches to Conversational AI <https://www.nowpublishers.com/article/Details/INR-074>`_
 
 Image-based QA (supervised)
 ---------------------------
