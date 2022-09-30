@@ -52,6 +52,7 @@ References
 
 - `A survey on question answering systems with classification <https://www.sciencedirect.com/science/article/pii/S1319157815000890>`_
 - `A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues <https://ojs.aaai.org/index.php/AAAI/article/view/10983>`_
+- `How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation <https://arxiv.org/pdf/1603.08023.pdf>`_
 
 **2017**
 
