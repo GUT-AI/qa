@@ -61,6 +61,10 @@ References
 
 - `Neural Approaches to Conversational AI <https://www.nowpublishers.com/article/Details/INR-074>`_
 
+**2020**
+
+- `Challenges in Building Intelligent Open-domain Dialog Systems <https://arxiv.org/pdf/1905.05709.pdf>`_
+
 Image-based QA (supervised)
 ---------------------------
 
