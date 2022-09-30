@@ -55,6 +55,7 @@ References
 **2017**
 
 - `A Survey on Dialogue Systems: Recent Advances and New Frontiers <https://www.kdd.org/exploration_files/19-2-Article3.pdf>`_
+- `A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues <https://ojs.aaai.org/index.php/AAAI/article/view/10983>`_
 
 **2018**
 
